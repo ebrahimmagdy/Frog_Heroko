@@ -8,8 +8,8 @@ function animate() {
 
     handelCoins();
 
-    // handleRipples();
-    handleParticles();
+//    handleRipples();
+//    handleParticles();
     // handelCoins()
     
 
